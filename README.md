@@ -1,1 +1,1 @@
-# binary-tree
+# Just data structures for practice
